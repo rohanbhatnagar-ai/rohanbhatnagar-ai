@@ -212,18 +212,18 @@
 
         <p>
             LinkedIn:
-            <a href="#" target="_blank">Add LinkedIn Profile</a>
+            <a href="#" target="_blank">www.linkedin.com/in/rohan-bhatnagar-1865a5300</a>
         </p>
 
         <p>
             GitHub:
-            <a href="#" target="_blank">Add GitHub Profile</a>
+            <a href="#" target="_blank">https://github.com/rohancode2005-star</a>
         </p>
 
         <p>
             Email:
             <a href="mailto:your-email@example.com">
-                your-email@example.com
+                rohan.code2005@gmail.com
             </a>
         </p>
     </section>
