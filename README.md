@@ -51,7 +51,7 @@ Built and compared machine learning models including Random Forest, SVM, and Log
 ### 🤝 Connect With Me
 
 * 💼 **LinkedIn:** [rohan-bhatnagar-1865a5300](https://www.linkedin.com/in/rohan-bhatnagar-1865a5300)
-* 🐙 **GitHub:** [rohancode2005-star](https://github.com/rohancode2005-star)
+* 🐙 **GitHub:** https://github.com/rohanbhatnagar-ai
 * 📧 **Email:** [rohan.code2005@gmail.com](mailto:rohan.code2005@gmail.com)
 
 ---
