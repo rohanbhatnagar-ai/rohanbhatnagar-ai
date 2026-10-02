@@ -5,8 +5,8 @@
 <h3 align="center">🚀 Data Scientist & AI Engineer | Hyderabad, India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbhatnagar" />
-  <img src="https://img.shields.io/badge/Experience-Fresher-brightgreen?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsartale4952" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLMs-blue?style=flat" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" />
 </p>
