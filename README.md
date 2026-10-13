@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **4+ years** of experience in **Data Science, Machine Learning & AI Agents**
+- 🔭 **1+ years** of experience in **Data Science, Machine Learning & AI Agents**
 - 🤖 Specialized in building **Autonomous AI Agents** using LangChain, LangGraph & CrewAI
 - 🧠 Working with **LLMs** (GPT-4, Claude, Gemini) for production-grade applications
 - 🌱 Currently deepening expertise in **Agentic AI**, **RAG Pipelines** & **Django REST APIs**
